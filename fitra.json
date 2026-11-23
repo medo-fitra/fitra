@@ -1,8 +1,24 @@
 {
-  "versionCode": 20,
-  "versionName": "0.20",
+  "versionCode": 21,
+  "versionName": "0.21",
   "apkUrl": "https://medo-fitra.github.io/fitra/",
   "news": [
+    {
+      "id": "n8",
+      "title": "استغفروا ❤️",
+      "body": "",
+      "author": "MEDO",
+      "publishedAt": "2026-11-24",
+      "audioUrl": "https://raw.githubusercontent.com/medo-fitra/fitra/main/audio/audio-88ca1fbf.mp3"
+    },
+    {
+      "id": "n9",
+      "title": "استغفروا ❤️",
+      "body": "",
+      "author": "MEDO",
+      "publishedAt": "2026-11-24",
+      "audioUrl": "https://raw.githubusercontent.com/medo-fitra/fitra/main/audio/audio-78909228.mp3"
+    },
     {
       "id": "n7",
       "title": "التحديث 0.12 نزل",
