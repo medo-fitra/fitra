@@ -1,8 +1,15 @@
 {
-  "versionCode": 31,
-  "versionName": "1.1",
+  "versionCode": 36,
+  "versionName": "1.2",
   "apkUrl": "https://medo-fitra.github.io/fitra/",
   "news": [
+    {
+      "id": "n10",
+      "title": "تحديث الأنبياء الجمعة القادمة",
+      "body": "بإذن الله تحديث الأنبياء يوم الجمعة القادمة، وسنزيد قصص الأنبياء.",
+      "author": "MEDO",
+      "publishedAt": "2026-11-25"
+    },
     {
       "id": "n8",
       "title": "استغفروا ❤️",
