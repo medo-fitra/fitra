@@ -4,6 +4,14 @@
   "apkUrl": "https://medo-fitra.github.io/fitra/",
   "news": [
     {
+      "id": "n12",
+      "title": "إنا لله وإنا إليه راجعون",
+      "body": "ينعي تطبيق فطرة ببالغ الحزن والأسى ضحايا حادث الوراق الأليم، داعين المولى عز وجل أن يتغمدهم بواسع رحمته، وأن يمنّ على المصابين بالشفاء العاجل.",
+      "author": "MEDO",
+      "publishedAt": "2026-11-26",
+      "imageUrl": "https://github.com/medo-fitra/fitra/releases/download/v1.6/news-n12.jpg"
+    },
+    {
       "id": "n11",
       "title": "استغفروا 🤍",
       "body": "استغفر الله العظيم واتوب اليه 🤍",
