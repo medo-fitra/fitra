@@ -1,0 +1,15 @@
+{
+  "v": 1,
+  "m": {
+    "qa-fit-001": {
+      "video": [
+        {"t": "شاهد قصة إبراهيم عليه السلام (فيديو)", "u": "https://github.com/medo-fitra/fitra/releases/download/v1.9/1-ibrahim-story.mp4", "s": "المصدر: القرآن الكريم والتفسير الميسّر، مجمع الملك فهد."}
+      ]
+    },
+    "qa-027": {
+      "video": [
+        {"t": "شاهد قصة إبراهيم عليه السلام (فيديو)", "u": "https://github.com/medo-fitra/fitra/releases/download/v1.9/1-ibrahim-story.mp4", "s": "المصدر: القرآن الكريم والتفسير الميسّر، مجمع الملك فهد."}
+      ]
+    }
+  }
+}
